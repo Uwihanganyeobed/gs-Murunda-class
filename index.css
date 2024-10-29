@@ -14,7 +14,7 @@ h2{
    color: rgb(106, 106, 241);
 }
 .header {
-   background: url('/images/Screenshot\ 2024-10-29\ 070730.png') center/cover no-repeat;
+   background: url('/images/bg.jpg') center/cover no-repeat;
    height: 90vh;
    display: flex;
    align-items: center;
